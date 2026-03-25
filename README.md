@@ -3,7 +3,8 @@
 # Hi, I'm Shannon 👋
 
 Senior Product Manager with 8 years of experience in enterprise platform 
-infrastructure, currently upskilling by building things from scratch.
+infrastructure, currently upskilling by building AI-powered systems 
+that solve personal use cases.
 
 I spent most of my career at the infrastructure layer — building products 
 that serve the systems other teams build on top of. At Capital One I owned 
